@@ -1,7 +1,11 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Django Document Archival System"
+excerpt: "A Django–Vue.js web application that digitizes neonatal admission records<br/><img src='/images/django-ocr.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+This project is a full-stack web application built with Django for the backend and Vue.js for the frontend. Its primary purpose is to streamline the handling of neonatal admission records within healthcare settings.
+
+The system allows users to upload scanned neonatal admission forms, which are then processed using an integrated Optical Character Recognition (OCR) engine. The OCR automatically extracts key patient information—such as name, date of birth, admission date, weight, and diagnosis—and converts the scanned paperwork into structured digital data.
+
+URL: [https://github.com/franklinokech/bridge_web_app_server](https://github.com/franklinokech/bridge_web_app_server)
